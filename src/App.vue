@@ -3,7 +3,8 @@
 </script>
 
 <template>
-  
+    <Navbar/>
+    
 </template>
 
 <style scoped>
